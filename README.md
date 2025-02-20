@@ -4,7 +4,9 @@
 
 💌 Hey, I'm Samantha! Nice to see you here!
 
-I am currently pursuing a degree in Computer Science. I aspire to be a Developer + Software Engineer and I'm extremely passionate about growing within this industry. Currently, I'm looking for new opportunities, like Internships, to learn and further expand my knowledge.
+I am currently pursuing a degree in Computer Science. <br>
+I aspire to be a Developer + Software Engineer and I'm extremely passionate about growing within this industry. <br>
+Currently, I'm looking for new opportunities, like Internships, to learn and further expand my knowledge. <br>
 
 🤍 All my projects represent little parts of me and my journey with coding.
 
