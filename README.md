@@ -1,4 +1,4 @@
-# ❕ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Samantha+Morales)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=%E2%9D%95+Samantha+Morales+%E2%9D%95)](https://git.io/typing-svg)
 
 **`Computer Science Major (Software Engineer/Developer/Graphic Designer)`**
 
