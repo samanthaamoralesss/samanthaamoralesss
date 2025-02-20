@@ -1,6 +1,6 @@
 # ❕ Samantha Morales
 
-**'Computer Science Major (Software Engineer/Developer/Graphic Designer)'**
+**`Computer Science Major (Software Engineer/Developer/Graphic Designer)`**
 
 💌 Nice to see you here! Hi, I'm Samantha. I am currently pursuing a degree in Computer Science. I aspire to be a Software Engineer and I'm extremely passionate about growing within this industry. Currently, I'm looking for new opportunities, like Internships, to learn and further expand my knowledge.
 
@@ -31,6 +31,8 @@ ___
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-plain.svg" />
 
 #
+<!--
 <details>
 <summary><h3> 💭 About Me + My Journey <summary><h3>
 I'll start with... I'm absolutely obsessed with all things tech! My passion for technology grew in middle school... I still have vivid memories of launching "steam" and being fully immersed. To say the least, it sparked my curiousity for this industry. I am college student with a lot of self teaching on my belt; Nonetheless, it has been such a rewarding journey. I strive to learn more every day, and I love seeing how much I’ve grown. Whether it’s coding, graphic design, learning about softwares, or 3D modeling, I just have to learn it all. Currently, I do 3D modeling for contractors and dabble in interior design. As well as, coding and creating new projects. I constantly push myself to pick up new skills. There are so many things I'd like to accomplish. From things like... building an app and or being apart of a development team. Overall, I want to be able to create amazing things that make an impact. My journey is just getting started.
+-->
