@@ -1,16 +1,36 @@
-## Hi there 👋
+# ❕ Samantha Morales
 
-<!--
-**samanthaamoralesss/samanthaamoralesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Computer Science Major (Software Engineer/Developer/Graphic Designer)'**
 
-Here are some ideas to get you started:
+💌 Nice to see you here! Hi, I'm Samantha. I am currently pursuing a degree in Computer Science. I aspire to be a Software Engineer and I'm extremely passionate about growing within this industry. Currently, I'm looking for new opportunities, like Internships, to learn and further expand my knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤍 All my projects represent little parts of me and my journey with coding.
+
+___
+#### [LinkedIn]([https://www.linkedin.com/in/samantha-morales-73b463221/]) - [Email](mailto:samanthaamoralesss@gmail.com)
+---
+
+### ⚙️ Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<br />
+
+#
+
+### 📄 Certifications
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-plain.svg" />
+
+#
+<details>
+<summary><h3> 💭 About Me + My Journey <summary><h3>
+I'll start with... I'm absolutely obsessed with all things tech! My passion for technology grew in middle school... I still have vivid memories of launching "steam" and being fully immersed. To say the least, it sparked my curiousity for this industry. I am college student with a lot of self teaching on my belt; Nonetheless, it has been such a rewarding journey. I strive to learn more every day, and I love seeing how much I’ve grown. Whether it’s coding, graphic design, learning about softwares, or 3D modeling, I just have to learn it all. Currently, I do 3D modeling for contractors and dabble in interior design. As well as, coding and creating new projects. I constantly push myself to pick up new skills. There are so many things I'd like to accomplish. From things like... building an app and or being apart of a development team. Overall, I want to be able to create amazing things that make an impact. My journey is just getting started.
