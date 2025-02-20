@@ -40,6 +40,7 @@ I am currently pursuing a degree in Computer Science. I aspire to be a Developer
 <details>
 <summary><h3>💭 About Me + My Journey</h3></summary>
 Where do I start... I'm absolutely obsessed with all things tech!<br>
-My passion for technology grew in middle school; I still have vivid memories of launching steam and being fully immersed in the games I played. To say the least, it sparked my curiousity for this industry. I am college student... with a lot of self teaching on my belt. Nonetheless, it has been such a rewarding journey. I strive to learn more every day, and I love seeing how much I’ve grown. Whether it’s coding, graphic design, learning about softwares, or 3D modeling, I just have to learn it all.<br>
-Currently, I do 3D modeling for contractors and dabble in interior design. As well as, code and create new projects. I constantly push myself to pick up new skills. There are so many things I'd like to accomplish. From things like... making logos, building an app, and or being apart of a development team.<br>
-Overall, I want to be able to create amazing things that make an impact. My journey is just getting started!
+My passion for technology grew in middle school; I still have vivid memories of launching "steam" and being fully immersed in the games I played. To say the least, it sparked my curiousity for this industry. Now, Here I am. A persistent college student... with a lot of self teaching under my belt. Nonetheless, it has been such a rewarding journey. I strive to learn more every day, and I love seeing how much I’ve grown. Whether it’s coding, graphic designing, or 3D modeling, I just have to learn it all.<br>
+Currently, I do 3D modeling and interior design. I create mockups and bring spaces to life! As well as, code and create new projects. I constantly push myself to pick up new skills. There are so many things I'd like to accomplish. Whethere I'm creating or contributing; I want to be able to apply my knowledge and be able to flourish with a team.<br>
+All in all, I want to be able to make a positive impact.<br>
+My journey is just getting started!
