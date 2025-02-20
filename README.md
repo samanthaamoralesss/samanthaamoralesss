@@ -29,7 +29,7 @@
 
 #
 
-### 📄 Certifications
+### 🎓 Certifications
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-plain.svg" />
 <br />
@@ -38,4 +38,4 @@
 
 <details>
 <summary><h3>💭 About Me + My Journey</h3></summary>
-I'll start with... I'm absolutely obsessed with all things tech! My passion for technology grew in middle school... I still have vivid memories of launching "steam" and being fully immersed. To say the least, it sparked my curiousity for this industry. I am college student with a lot of self teaching on my belt; Nonetheless, it has been such a rewarding journey. I strive to learn more every day, and I love seeing how much I’ve grown. Whether it’s coding, graphic design, learning about softwares, or 3D modeling, I just have to learn it all. Currently, I do 3D modeling for contractors and dabble in interior design. As well as, coding and creating new projects. I constantly push myself to pick up new skills. There are so many things I'd like to accomplish. From things like... building an app and or being apart of a development team. Overall, I want to be able to create amazing things that make an impact. My journey is just getting started.
+Where do I start... I'm absolutely obsessed with all things tech. My passion for technology grew in middle school; I still have vivid memories of launching steam and being fully immersed in the games I played. To say the least, it sparked my curiousity for this industry. I am college student... with a lot of self teaching on my belt. Nonetheless, it has been such a rewarding journey. I strive to learn more every day, and I love seeing how much I’ve grown. Whether it’s coding, graphic design, learning about softwares, or 3D modeling, I just have to learn it all. Currently, I do 3D modeling for contractors and dabble in interior design. As well as, code and create new projects. I constantly push myself to pick up new skills. There are so many things I'd like to accomplish. From things like... making logos, building an app, and or being apart of a development team. Overall, I want to be able to create amazing things that make an impact. My journey is just getting started.
